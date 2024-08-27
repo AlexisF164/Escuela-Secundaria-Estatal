@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Escuela Secundaria Estatal Foranea</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Escuela Secundaria Estatal</h1>
+        <a href="https://www.facebook.com/sec.for.est.99tm/?locale=cs_CZ" target="_blank">
+        <img src="Logo.png" alt="Logotipo de la escuela" class="logo">
+        </a>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#about">Acerca de nosotros</a></li>
+            <li><a href="#courses">Cursos</a></li>
+            <li><a href="#events">Eventos Escolares</a></li>
+            <li><a href="#contact">Contactanos</a></li>
+         </ul>
+    </nav>
+  
+    <section id="hero" class="hero">
+        <div class="container">
+
+            <div class="container" >
+                <h1>Bienvenidos a la escuela secundaria Estatal</h1>
+                <p>Brindamos una educacion de calidad para reforzar las habilidades de los alumnos</p>
+            </div>
+            <img src="Imagen de bienvenida.jpg" alt="Imagen de bienvenida" class="about-image">
+            <br>
+            <br>
+            <br>
+            <a href="#about" class="btn">Conocenos mas</a>  
+
+        </div>  
+    </section>
+    
+        <section id="about" class="about">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6">
+                        <h2 class="section title">Sobre nosotros</h2>
+                        <h1>Bienvenidos a la escuela Estatal, donde nos dedicamos a proporcionar una educacion eficiente, contamos con un equipo de docentes almatamante calificado y un espacio amigable para todos los estudiantes de la institucion.</h1>
+                        <p>Iniciamos funcionando desde 1980, profesores de algunas primarias se unieron para crear esta secundaria la escuela en sus inicios funcionaba con salones de una primaria ah principios nos faltaba material para el trabajo. Al principio fuimos una escuela de cooperacion.</p>
+                        <p>En 1994 la secretaria de educacio    n nos avisa que la escuela oficialmente ya podria trabajar, aunque fue en partes ya que solo contabamos con 3 salones osea que empezamos con 3 grupos.</p>
+                        <p>Cuando inicio la secundaria originalmente aproximadamente fuimos 8 profesores el 16 de noviembre 1994 oficialmente nace la secundaria numero 28.</p>
+                        <p>Nuestro director oficial se conocia como Raimundo.</p>
+                    </div>
+
+                    <div class="col-md-5">
+                        <img src="Imagen del equipo.jpg" alt="Imagen del equipo" class="about-image" width="600" height="600"> 
+                    </div> 
+                    
+                </div>
+            </div>    
+        </section>
+
+
+    <section id="courses" class="courses">
+        <div class="courses">
+            <h2 class="section title">Nuestros Cursos</h2>
+           <p>Tenemos varios cursos y algunos talleres para los alumnos para conocer sus habilidades en diferentes ambitos academicos, y ver el potencial en aquellos cursos que se les imparten.</p>
+           <p>Ademas de que tratamos de que sea un area recreativa para los alumnos, asi tendran diferentes maneras de aprender sin necesidad de dispositivos, ademas de que nuestras clases son dinamicas para ellos.</p>
+           <P>Constantemente buscamos nuevas maneras de educar a los jovenes, ademas nos aseguramos de que nuestros docentes se actualicen constantemente para optar alternativas y asi las clases sean mejor planeadas y estructuradas.
+            Los cursos que tenemos actualmente son:</P>
+            <p><b>
+            <br>
+            <br>
+            • Matematicas
+            <br>
+            • Español
+            <br>
+            • Ciencias Naturales
+            <br>
+            • Formacion civica y etica
+            <br>
+            • Geografia
+            <br>
+            • Historia
+            <br>
+            • Educacion fisica</b>
+            </p>
+        </div>
+    </section>  
+
+    <section id="events" class="events">
+        <div class="events">
+            <h2 class="section title">Eventos Escolares</h2>
+            <p>Tenemos varios eventos con diferentes tematicas para que los alumnos disfruten de la estadia en la escuela</p>
+            <p>Este evento se llevo acabo para conmemorar a las personas que ya no se encuentran con nosotros ademas de que los alumnos se fueron disfrazados de catrines y catrinas, para disfrutar del dia.</p>
+            <img src="Evento escolar 2.jpg" alt="Evento escolar" class="about-image"> 
+        </div>
+
+
+    </section>
+
+    <section id="contact" class="contact">
+        <div>
+            <h2 class="section-title">Contactanos</h2>
+            <p>Direccion:Flores Magon s/n, colonia La mora,Ciudad de jalisco:Municipio de ixtlahuacan de los membrillos</p>
+            <P>Numero de contacto: 3331838110  </P>
+            <a href="https://www.facebook.com/sec.for.est.99tm/?locale=cs_CZ" target="_blank">Pagina de facebook</a>
+        </div>
+    </section>
+     
+    <footer>
+        <p>&copy;2024 Escuela Secundaria Estatal, Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
